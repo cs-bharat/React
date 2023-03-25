@@ -54,7 +54,7 @@ const App = () => {
     return binary;
   }
    
-  // console.log(decToBinary(10));
+  console.log(decToBinary(10));
 
   //  useEffect(()=>{
   // //  console.log(decToBinary(10));
